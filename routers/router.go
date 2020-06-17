@@ -14,4 +14,5 @@ func init() {
 		ExposeHeaders:    []string{"Content-Length", "Access-Control-Allow-Origin", "Access-Control-Allow-Headers", "Content-Type", "X-Access-Token"},
 		AllowCredentials: true,
 	}))
+	beego.Run()
 }
