@@ -16,9 +16,9 @@ import (
 
 	"github.com/astaxie/beego"
 
-	"server/libs"
-	"server/models"
-	"server/utils"
+	"go-server/libs"
+	"go-server/models"
+	"go-server/utils"
 )
 
 type AdminUserController struct {

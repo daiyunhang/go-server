@@ -13,12 +13,12 @@ import (
 	"fmt"
 	"time"
 
-	"server/utils"
+	"go-server/utils"
 
 	"strconv"
 
 	cache "github.com/patrickmn/go-cache"
-	"server/models"
+	"go-server/models"
 )
 
 type AuthController struct {

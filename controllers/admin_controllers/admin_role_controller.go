@@ -15,7 +15,7 @@ import (
 	"time"
 
 	"github.com/astaxie/beego"
-	"server/models"
+	"go-server/models"
 )
 
 type RoleController struct {

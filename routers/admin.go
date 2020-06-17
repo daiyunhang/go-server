@@ -10,7 +10,7 @@ package routers
 
 import (
 	"github.com/astaxie/beego"
-	"server/controllers/admin_controllers"
+	"go-server/controllers/admin_controllers"
 )
 
 func init() {

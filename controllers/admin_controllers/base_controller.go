@@ -13,9 +13,9 @@ import (
 	"strconv"
 	"strings"
 
-	"server/libs"
-	"server/models"
-	"server/utils"
+	"go-server/libs"
+	"go-server/models"
+	"go-server/utils"
 
 	"github.com/astaxie/beego"
 	cache "github.com/patrickmn/go-cache"

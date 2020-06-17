@@ -3,10 +3,10 @@ package main
 import (
 	"time"
 
-	"server/models"
-	_ "server/routers"
+	"go-server/models"
+	_ "go-server/routers"
 
-	"server/utils"
+	"go-server/utils"
 
 	"github.com/astaxie/beego"
 	cache "github.com/patrickmn/go-cache"
